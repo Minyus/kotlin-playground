@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/7-MyLocation.iml" filepath="$PROJECT_DIR$/7-MyLocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/7-MyLocation-app.iml" filepath="$PROJECT_DIR$/app/7-MyLocation-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlin-playground_minyus_develop-7-MyLocation.iml" filepath="$PROJECT_DIR$/kotlin-playground_minyus_develop-7-MyLocation.iml" />
     </modules>
   </component>
 </project>
